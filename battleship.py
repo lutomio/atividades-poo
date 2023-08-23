@@ -1,5 +1,3 @@
-#INTEGRANTES: Anderson Simioni, Lucas Tomio,  Felipe Pierotti,  Victória Rodrigues Veloso
-
 class ship:
     def __init__(self, name, _len):
         self.name = name
